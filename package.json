@@ -1,0 +1,28 @@
+{
+  "name": "yoty",
+  "version": "0.0.1",
+  "main": "yoty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PinBib",
+  "license": "ISC",
+  "description": "This package was created to create telegram bots, it has a minimal set of functions and it simplifies the work",
+  "dependencies": {
+    "sync-request": "^6.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pinbib/yoty.git"
+  },
+  "keywords": [
+    "Telegram",
+    "node",
+    "js"
+  ],
+  "bugs": {
+    "url": "https://github.com/Pinbib/yoty/issues"
+  },
+  "homepage": "https://github.com/Pinbib/yoty#readme"
+}
