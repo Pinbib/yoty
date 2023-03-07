@@ -66,7 +66,7 @@ class TelegramBot {
                     var text = stand.message.text.split(' ');
                     var command = this.command[i];
                     if (text[0] == command.conditions) {
-                        var message = stand.message.text;
+                        var message = text;
                         var user = {
                             "id": 5225903550,
                             "first_name": "PinBib",
